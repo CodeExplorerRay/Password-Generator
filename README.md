@@ -29,6 +29,9 @@ Check out the [Live Preview on CodePen](https://codepen.io/baarbaracrr/pen/KKovm
 
 This project was created by CodeExplorer.
 
+![CodeExplorer Logo](https://github.com/CodeExplorerRay/Password-Generator/blob/main/CodeExplorer.png)
+
+
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
