@@ -25,12 +25,6 @@ Check out the [Live Preview on CodePen](https://codepen.io/baarbaracrr/pen/KKovm
 
 - Poppins Font: Used for the typography in the project.
 
-## Credits
-
-This project was created by CodeExplorer.
-
-![CodeExplorer Logo](https://github.com/CodeExplorerRay/Password-Generator/blob/main/CodeExplorer.png)
-
 
 ## License
 
@@ -45,3 +39,10 @@ Password Generator URL: [https://codepen.io/CodeExplorerRay](https://codepen.io/
 If you find my work helpful and would like to support me, consider buying me a coffee!
 
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?username=CodeExplorer&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000)](https://www.buymeacoffee.com/CodeExplorer)
+
+## Credits
+
+This project was created by CodeExplorer.
+
+![CodeExplorer Logo](https://github.com/CodeExplorerRay/Password-Generator/blob/main/CodeExplorer.png)
+
