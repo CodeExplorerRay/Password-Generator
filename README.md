@@ -34,3 +34,5 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 Created on CodePen.io. Original URL: [https://codepen.io/CodeExplorerRay/pen/KKEjxxY](https://codepen.io/CodeExplorerRay/pen/KKEjxxY).
 
+
+Password Generator URL: [https://codepen.io/CodeExplorerRay](https://codepen.io/CodeExplorerRay/full/KKEjxxY)
