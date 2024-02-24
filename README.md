@@ -29,9 +29,8 @@ This project was created by CodeExplorer.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-*Please write in English language.*
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/CodeExplorerRay/pen/KKEjxxY](https://codepen.io/CodeExplorerRay/pen/KKEjxxY).
+Created on CodePen.io. Original URL: [https://codepen.io/CodeExplorerRay/pen/KKEjxxY](https://codepen.io/CodeExplorerRay/pen/KKEjxxY).
 
