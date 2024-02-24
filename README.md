@@ -1,4 +1,3 @@
-![CodeExplorer Logo](C:\Users\raymo\Downloads\Design_a_sleek_and_modern_logo_for_CodeExplorer__1_-removebg-preview.png)
 # Password Generator
 
 This project is a simple Password Generator implemented using HTML, CSS, and JavaScript. It allows users to generate random passwords of a specified length and copy them to the clipboard.
