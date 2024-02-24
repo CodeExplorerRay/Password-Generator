@@ -19,6 +19,8 @@ This project is a simple Password Generator implemented using HTML, CSS, and Jav
 
 The project utilizes the Poppins font and features an animated gradient background with waves for an appealing visual effect.
 
+Check out the [Live Preview on CodePen](https://codepen.io/baarbaracrr/pen/KKovmGb)
+
 ## Dependencies
 
 - Poppins Font: Used for the typography in the project.
