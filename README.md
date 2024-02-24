@@ -41,3 +41,7 @@ Created on CodePen.io. Original URL: [https://codepen.io/CodeExplorerRay/pen/KKE
 
 
 Password Generator URL: [https://codepen.io/CodeExplorerRay](https://codepen.io/CodeExplorerRay/full/KKEjxxY)
+
+If you find my work helpful and would like to support me, consider buying me a coffee!
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?username=CodeExplorer&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000)](https://www.buymeacoffee.com/CodeExplorer)
