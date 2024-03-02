@@ -2,10 +2,51 @@
 <html lang="en" dir="ltr">
    <head>
       <meta charset="utf-8">
-      <title>Password Generator JavaScript| CodeExplorer</title>
+      <title>Password Generator JavaScript | CodeExplorer</title>
+      <style>
+         /* Updated styles with fancy formatting for GitHub Username */
+         body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+         }
+
+         .github-info {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            display: flex;
+            align-items: center;
+         }
+
+         .avatar {
+            border-radius: 50%;
+            margin-right: 10px;
+         }
+
+         .github-username {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            text-decoration: none;
+            letter-spacing: 1px;
+            transition: color 0.3s ease-in-out;
+         }
+
+         .github-username:hover {
+            color: #4e54c8; /* Change color on hover */
+         }
+      </style>
       <link rel="stylesheet" href="style.css">
    </head>
    <body>
+      <!-- GitHub Avatar and Fancy Username at the Top Left -->
+      <div class="github-info">
+         <img src="https://avatars.githubusercontent.com/u/144646067?v=4" alt="GitHub Avatar" class="avatar" width="50" height="50">
+         <a href="https://github.com/CodeExplorerRay" target="_blank" class="github-username">CodeExplorerRay</a>
+      </div>
+      <!-- End GitHub Avatar and Fancy Username -->
+
       <div class="container">
          <header>Password Generator</header>
          <form action="#">
