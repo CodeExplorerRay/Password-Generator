@@ -82,7 +82,7 @@ body {
 }
 
 .container {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0);
   padding: 20px 30px;
   width: 420px;
   border-radius: 5px;
@@ -168,5 +168,4 @@ form button {
 }
 
 form button:hover {
-  background: #c0392b;
-}
+  background: #c0392b
