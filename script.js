@@ -1,5 +1,5 @@
 function generatePassword() {
-  const length = 12; // Set your desired password length
+  const length = 9; // Set your desired password length
   const charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=";
 
   let password = "";
