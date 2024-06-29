@@ -44,5 +44,5 @@ If you find my work helpful and would like to support me, consider buying me a c
 
 This project was created by CodeExplorer.
 
-![CodeExplorer Logo](https://avatars.githubusercontent.com/u/144646067?s=96&v=4)
+![CodeExplorer Logo](
 
