@@ -1,6 +1,6 @@
 function generatePassword() {
   const length = 9; // Set your desired password length
-  const charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=";
+  const charset = "abcdefghjkmnpqrstuvwxyzABCDEFGHJKMNPQRSTUVWXYZ123456789!@#$%^&*()_-+=";
 
   let password = "";
   for (let i = 0; i < length; i++) {
